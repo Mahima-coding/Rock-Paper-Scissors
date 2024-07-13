@@ -11,8 +11,8 @@ This is a simple web-based implementation of the classic game "Stone Paper Sciss
 
 5. The result of the round will be displayed on the screen.
 # Features
-**-> **Play the classic game of Stone Paper Scissors against the computer.
+1. Play the classic game of Stone Paper Scissors against the computer.
 
-Simple and intuitive user interface.
+2. Simple and intuitive user interface.
 
-Random computer move generation for unpredictable gameplay.
+3. Random computer move generation for unpredictable gameplay.
