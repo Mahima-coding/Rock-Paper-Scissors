@@ -10,3 +10,9 @@ This is a simple web-based implementation of the classic game "Stone Paper Sciss
 4. The computer will randomly choose its move.
 
 5. The result of the round will be displayed on the screen.
+# Features
+Play the classic game of Stone Paper Scissors against the computer.
+
+Simple and intuitive user interface.
+
+Random computer move generation for unpredictable gameplay.
