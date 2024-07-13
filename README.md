@@ -18,5 +18,7 @@ This is a simple web-based implementation of the classic game "Stone Paper Sciss
 3. Random computer move generation for unpredictable gameplay.
 # Technologies Used
 HTML
+
 CSS
+
 JavaScript
