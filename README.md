@@ -26,5 +26,5 @@ JavaScript
 
 ![r1](https://github.com/user-attachments/assets/3ad58fbf-2cea-4ffd-9f29-231f8c61ed04)
 
-![Uploading Screenshot (101).png…]()
+
 
